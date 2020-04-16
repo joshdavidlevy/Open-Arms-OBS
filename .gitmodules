@@ -1,0 +1,3 @@
+[submodule "Verses"]
+	path = Verses
+	url = git@github.com:joshdavidlevy/BibleVersesFromList.git
